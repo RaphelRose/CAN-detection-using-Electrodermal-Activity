@@ -28,3 +28,13 @@ The EDA sensor we developed represents a breakthrough in non-invasive cardiovasc
 
 ## Conclusion
 This project successfully helps us to detect CAN and other disorders by demonstrating the development of an EDA sensor using an Arduino to measure skin conductance levels. By visualizing this data in real-time, we can detect patterns that may indicate cardiovascular diseases, providing a non-invasive and accessible tool for monitoring heart health. The sensor’s portability and ease of use make it suitable for both clinical and personal applications, potentially aiding in early diagnosis and preventive care.
+
+## References
+1. https://jmladeno.net/index.php/2022/05/29/make-a-real-working-eda-with-arduino-uno-and-op-amp/
+2. Yun-Ru Lai, Chih-Cheng Huang, Ben-Chung Cheng, Nai-Wen Tsai, Wen-Chan Chiu, Hsueh-Wen Chang, Jung-Fu Chen, Cheng-Hsien Lu, “Feasibility of combining heart rate variability and electrochemical skin conductance as screening and severity evaluation of cardiovascular autonomic neuropathy in type 2 diabetes”, 31 January 2021.
+3. Chih-Cheng Huang, Yun-Ru Lai, Chia-Yi Lien, Ben-Chung Cheng, ”The Role of Electrochemical Skin Conductance as a Screening Test of Cardiovascular Autonomic Neuropathy”, 23 October 2020.
+4. Tianyi He, Chuan Wang, Anju Zuo, Pan Liu, Ruxing Zhao, Wenjuan Li, Li Chen, Xinguo Hou,” Electrochemical Skin Conductance May Be Used to Screen for Diabetic Cardiac Autonomic Neuropathy in a Chinese Population with Diabetes”, 09 February 2017
+5. Alberto Greco ,  Gaetano Valenza ,Enzo Pasquale Scilingo,”Advances in Electrodermal Activity  Processing with Applications for Mental Health: From Methodology to Practice, 2016
+6. Goldstein, D. S., “The Autonomic Nervous System in Health and Disease” ,2001
+7. Boucsein, W,” Electrodermal Activity (EDA): Mechanisms, Measures, and Applications”,2012.
+8. Kim, H. G., et al,” Stress and Heart Rate Variability: A Meta-Analysis and Review of the Literature”,2018.
