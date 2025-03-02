@@ -1,13 +1,13 @@
-![image](https://github.com/user-attachments/assets/6be74b84-78e4-4f3d-8356-c1985abab1de)# CAN-detection-using-Electrodermal-Activity
+# CAN-detection-using-Electrodermal-Activity
 Cardiovascular autonomic neuropathy (CAN) is a serious complication of diabetes and other chronic conditions, characterized by autonomic nervous system dysfunction that can lead to life-threatening cardiovascular events. Despite its severity, CAN is often underdiagnosed due to the lack of accessible, non-invasive diagnostic tools. 
 This project aims to develop a Electrodermal Activity (EDA) sensor to monitor skin conductance and autonomic responses, providing an early detection system for CAN. The system will integrate real-time data processing and analysis thus offering a cost-effective and non-invasive solution to improve early diagnosis and management of CAN in at-risk populations.
-Abstract
+#Abstract
 This project introduces a novel EDA (Electrodermal Activity) sensor designed to measure skin conductance levels, which can be used as an indicator of physiological responses. 
 By capturing real-time changes in skin conductance, this sensor provides valuable data on the autonomic nervous system's activity, which is closely linked to cardiovascular health. 
 The collected data is visualized through signal graphs, enabling the identification of patterns and anomalies that may indicate cardiovascular disorders.
 This innovative approach offers a non-invasive method to monitor heart health, potentially aiding in early diagnosis and preventive care. 
 The project will detail the sensor’s functionality, data interpretation, and its applications in cardiovascular health monitoring.
-Existing Methodology
+#Existing Methodology
 SUDOSCAN is a non-invasive device that measures skin conductance to assess sweat gland function and autonomic nerve activity. It uses electrodes to detect ions in sweat, providing quick results. SUDOSCAN is commonly used to diagnose and monitor conditions like diabetic neuropathy and other autonomic disorders by evaluating small nerve fiber function.
 Methodology
 The EDA sensor system is developed using readily available electronic components and open-source platforms to create a cost-effective and efficient device for measuring skin conductance levels. 
