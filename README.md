@@ -15,13 +15,13 @@ SUDOSCAN is a non-invasive device that measures skin conductance to assess sweat
 ## Methodology
 The EDA sensor system is developed using readily available electronic components and open-source platforms to create a cost-effective and efficient device for measuring skin conductance levels. 
 The methodology involved several key steps: 
-### Arduino UNO: The Arduino UNO microcontroller serves as the central processing unit of the sensor system.  
-Resistors and Capacitors: To stabilize the sensor's readings and filter noise, ensuring accurate measurement of skin conductance.
-Operational amplifier: An op-amp amplifies the weak signals from the EDA sensor, making them strong enough for the Arduino to process and analyze. It also conditions the signal, ensuring accuracy and stability.
-Sensor Design: The sensor comprises two electrodes that are placed on the skin to measure conductance. The change in skin conductance, which correlates with sweat gland activity, is captured by these electrodes and transmitted as a variable electrical signal.
-Data Processing: Amplification of the signal is done using an operational amplifier (Op-Amp) to ensure accurate readings. The processed data is then analyzed by the Arduino.
-Real-Time Visualization: The skin conductance data is plotted on a graph, enabling visualization of fluctuations and patterns indicative of cardiovascular and neural health.
-Analysis for Cardiovascular Disease Detection: Interpretation of the graphical data helps to identify potential anomalies or patterns that could suggest cardiovascular and neural conditions, providing a basis for early diagnosis.
+1. Arduino UNO: The Arduino UNO microcontroller serves as the central processing unit of the sensor system.  
+2. Resistors and Capacitors: To stabilize the sensor's readings and filter noise, ensuring accurate measurement of skin conductance.
+3. Operational amplifier: An op-amp amplifies the weak signals from the EDA sensor, making them strong enough for the Arduino to process and analyze. It also conditions the signal, ensuring accuracy and stability.
+4. Sensor Design: The sensor comprises two electrodes that are placed on the skin to measure conductance. The change in skin conductance, which correlates with sweat gland activity, is captured by these electrodes and transmitted as a variable electrical signal.
+5. Data Processing: Amplification of the signal is done using an operational amplifier (Op-Amp) to ensure accurate readings. The processed data is then analyzed by the Arduino.
+6. Real-Time Visualization: The skin conductance data is plotted on a graph, enabling visualization of fluctuations and patterns indicative of cardiovascular and neural health.
+7. Analysis for Cardiovascular Disease Detection: Interpretation of the graphical data helps to identify potential anomalies or patterns that could suggest cardiovascular and neural conditions, providing a basis for early diagnosis.
 
 ## Novelty
 The EDA sensor we developed represents a breakthrough in non-invasive cardiovascular health monitoring. Unlike traditional diagnostic tools that require extensive and often costly equipment, our sensor provides a simple yet effective way to measure skin conductance levels as an indirect marker of cardiovascular health.
