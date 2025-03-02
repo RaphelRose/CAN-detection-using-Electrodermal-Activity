@@ -14,8 +14,8 @@ SUDOSCAN is a non-invasive device that measures skin conductance to assess sweat
 
 ## Methodology
 The EDA sensor system is developed using readily available electronic components and open-source platforms to create a cost-effective and efficient device for measuring skin conductance levels. 
-### The methodology involved several key steps: 
-Arduino UNO: The Arduino UNO microcontroller serves as the central processing unit of the sensor system.  
+The methodology involved several key steps: 
+### Arduino UNO: The Arduino UNO microcontroller serves as the central processing unit of the sensor system.  
 Resistors and Capacitors: To stabilize the sensor's readings and filter noise, ensuring accurate measurement of skin conductance.
 Operational amplifier: An op-amp amplifies the weak signals from the EDA sensor, making them strong enough for the Arduino to process and analyze. It also conditions the signal, ensuring accuracy and stability.
 Sensor Design: The sensor comprises two electrodes that are placed on the skin to measure conductance. The change in skin conductance, which correlates with sweat gland activity, is captured by these electrodes and transmitted as a variable electrical signal.
